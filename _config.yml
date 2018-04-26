@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Torrnado's Coding Adventures 
 header-img: img/home-bg.png
 email: victoria.fluharty@gmail.com
 copyright_name: torianne02
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Join me on my journey of becoming a web developer!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  torianne02
