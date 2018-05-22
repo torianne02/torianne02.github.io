@@ -6,6 +6,7 @@ permalink:  uniq_vs_uniq
 ---
 
 After getting to practice with arrays over and over again, I have learned that there are numerous methods which help one to iterate over them. One of the really useful things that I have learned is the use of methods with and without '!'. Utilizing '!' at the end of an array method will return the modified original array or `nil`. By not utilizing '!', it will return a new array. So, to give an example of this, I have decided to explain the differences between the `#uniq` and `#uniq!` methods. 
+<br>
 ## `#uniq`
 `#uniq` returns a new array by removing all duplicates in `self` 
 <br><br>
@@ -22,6 +23,7 @@ After getting to practice with arrays over and over again, I have learned that t
 ```array = [[“student”, “sam”], [“student”, “george”], [“teacher”, “matz”]]```
 <br>
 ```array.uniq {|s| s.first} #=> [[“student”, “sam], [“teacher”, “matz”]]```
+<br>
 ## `#uniq!`
 `#uniq!` returns the original array after removing all duplicates in `self` or returns `nil` if there are no duplicates.
 <br><br>
@@ -42,7 +44,7 @@ After getting to practice with arrays over and over again, I have learned that t
 ```array = [[“student”, “sam”], [“student”, “george”], [“teacher”, “matz”]]```
 <br>
 ```array.uniq! {|s| s.first} #=> [[“student”, “sam], [“teacher”, “matz”]]```
-<br><br><br>
+<br><br>
 ### References
 https://ruby-doc.org/core-2.2.0/Array.html#method-i-uniq
 <br>
