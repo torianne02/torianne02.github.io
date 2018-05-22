@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "`#uniq` vs `#uniq!`"
-date:       2018-05-22 17:30:06 +0000
+title:      "#uniq vs #uniq!"
+date:       2018-05-22 13:30:07 -0400
 permalink:  uniq_vs_uniq
 ---
 
@@ -43,7 +43,7 @@ After getting to practice with arrays over and over again, I have learned that t
 <br>
 ```array.uniq! {|s| s.first} #=> [[“student”, “sam], [“teacher”, “matz”]]```
 <br><br><br>
-###### References
+### References
 https://ruby-doc.org/core-2.2.0/Array.html#method-i-uniq
 <br>
 https://stackoverflow.com/questions/33923492/ruby-what-is-the-difference-between-uniq-and-uniq
