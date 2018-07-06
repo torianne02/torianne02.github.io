@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "3 Reasons ORM’s Will Make Your Life as Developer Easier"
-date:       2018-07-06 18:17:38 +0000
+date:       2018-07-06 14:17:39 -0400
 permalink:  3_reasons_orm_s_will_make_your_life_as_developer_easier
 ---
 
