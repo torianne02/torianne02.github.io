@@ -16,7 +16,7 @@ An ORM, or object-relational mapping tool, is a technique that allows a programm
 <br><br>
 As stated previously, ORM’s work alongside object-oriented programming languages. This includes, but is not limited to, Java, Python, and Ruby. 
 <br><br><br>
-Now, let us dive into the big question: **how do ORM’s make a web developer’s life easier**? 
+Now, let us dive into the big question: ***how do ORM’s make a web developer’s life easier***? 
 <br><br>
 1. ORM’s help **cut down on overall development time.** This is arguably the most beneficial reason to use an ORM. As a developer, we are always looking for ways to increase our productivity. Although the code that the ORM tool is developing isn’t complex, it still takes up a good portion of your development time, as it would be a lot of tedious work to do manually. It is said that your development time could be cut down anywhere between 20% and 50% dependent upon your situation/project. 
 
