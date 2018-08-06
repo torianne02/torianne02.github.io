@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How My Sinatra Project Built My Confidence"
-date:       2018-08-06 17:02:32 +0000
+date:       2018-08-06 13:02:33 -0400
 permalink:  how_my_sinatra_project_built_my_confidence
 ---
 
