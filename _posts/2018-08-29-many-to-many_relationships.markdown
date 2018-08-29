@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Many-to-Many Relationships"
-date:       2018-08-29 18:52:21 +0000
+date:       2018-08-29 14:52:22 -0400
 permalink:  many-to-many_relationships
 ---
 
@@ -57,3 +57,12 @@ Due to the nature of this relationship, a join table is needed. For a normal `ha
 	end
 ```
 Like the above association, this one requires a join table. Unlike the above, the join table does have a model associated with it (the third model).
+
+### Sources
+https://github.com/wdi-hk-9/sinatra-activerecord-modeling-relationships-lesson/blob/master/readme.md 
+<br>
+https://learn.co/tracks/full-stack-web-development-v6/sinatra/activerecord/activerecord-associations-join-tables 
+<br>
+https://guides.rubyonrails.org/association_basics.html#the-has-many-association 
+<br>
+https://apidock.com/rails/ActiveRecord/Associations/ClassMethods/has_and_belongs_to_many
