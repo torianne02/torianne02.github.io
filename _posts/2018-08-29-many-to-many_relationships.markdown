@@ -59,10 +59,10 @@ Due to the nature of this relationship, a join table is needed. For a normal `ha
 Like the above association, this one requires a join table. Unlike the above, the join table does have a model associated with it (the third model).
 
 ### Sources
-https://github.com/wdi-hk-9/sinatra-activerecord-modeling-relationships-lesson/blob/master/readme.md 
+[Modeling Relationships (Github)](https://github.com/wdi-hk-9/sinatra-activerecord-modeling-relationships-lesson/blob/master/readme.md) 
 <br>
-https://learn.co/tracks/full-stack-web-development-v6/sinatra/activerecord/activerecord-associations-join-tables 
+[ActiveRecord Associations: Join Tables (learn.co)](https://learn.co/tracks/full-stack-web-development-v6/sinatra/activerecord/activerecord-associations-join-tables )
 <br>
-https://guides.rubyonrails.org/association_basics.html#the-has-many-association 
+[ActiveRecord Associations (Rails Guides)](https://guides.rubyonrails.org/association_basics.html#the-has-many-association) 
 <br>
-https://apidock.com/rails/ActiveRecord/Associations/ClassMethods/has_and_belongs_to_many
+[has_and_belongs_to_many (APIdock)](https://apidock.com/rails/ActiveRecord/Associations/ClassMethods/has_and_belongs_to_many)
