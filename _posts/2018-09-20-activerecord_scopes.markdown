@@ -12,7 +12,7 @@ While completing my Ruby on Rails project assessment, I learned that I had not c
 
 A scope is a method representing the narrowing of a database query. A scope allows a developer to pick out “commonly-used queries which can be referenced as the method calls on the association objects or models.” A scope method ultimately returns an `ActiveRecord::Relation` object that allows other methods to be called on it, which allows it to be chainable. 
 
-**Where do I put a scope method? **
+**Where do I put a scope method?**
 
 A scope method should be placed within the model. Here are two examples of how it should be formatted:
 
