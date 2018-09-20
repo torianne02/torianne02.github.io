@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ActiveRecord Scopes"
-date:       2018-09-20 21:41:28 +0000
+date:       2018-09-20 17:41:29 -0400
 permalink:  activerecord_scopes
 ---
 
