@@ -50,7 +50,7 @@ const GuestList = ({ guestList }) =>
 
 export default GuestList
 ```
-That’s it… `({ guestList })`. All I needed was the curly braces around the prop variable. Completing my project was put off for 3 days due to that tiny mistake. I laughed so hard with the technical lead of the section when he pointed it out. I laughed so hard that I cried. It was such a relief to realize that my logic was overall correct, I just messed up one tiny thing. You could thing “You wasted 3 days, why are you feeling relief?” Well, sure that’s one way to think about it, but I **react** to it in a more optimistic way. 
+That’s it… `({ guestList })`. All I needed was the curly braces around the prop variable. Completing my project was put off for 3 days due to that tiny mistake. I laughed so hard with the technical lead of the section when he pointed it out. I laughed so hard that I cried. It was such a relief to realize that my logic was overall correct, I just messed up one tiny thing. You could think “You wasted 3 days, why are you feeling relief?” Well, sure that’s one way to think about it, but I **react** to it in a more optimistic way. 
 
 Overall, the 3 days that I spent reading common mistakes, watching tutorials, and reading official documentation, really helped me gain such a deeper understanding of how React and Redux work. I feel so much more comfortable and confident in my Javascript skills, the React component lifecycle, and the Redux store. 
 
