@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Optimistic REACTion"
-date:       2019-02-08 21:00:28 +0000
+date:       2019-02-08 16:00:30 -0500
 permalink:  optimistic_reaction
 ---
 
@@ -55,3 +55,6 @@ That’s it… `({ guestList })`. All I needed was the curly braces around the p
 Overall, the 3 days that I spent reading common mistakes, watching tutorials, and reading official documentation, really helped me gain such a deeper understanding of how React and Redux work. I feel so much more comfortable and confident in my Javascript skills, the React component lifecycle, and the Redux store. 
 
 Bottom line: **this project has been really rewarding**. Happy coding! 
+
+### Resources
+[compose(...functions)](https://redux.js.org/api/compose)
