@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why Do We Use `this.setState()`?"
-date:       2019-02-14 22:56:06 +0000
+title:      "Why Do We Use this.setState()?"
+date:       2019-02-14 17:56:07 -0500
 permalink:  why_do_we_use_this_setstate
 ---
 
