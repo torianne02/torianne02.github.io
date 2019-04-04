@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scope in Javascript"
-date:       2019-04-04 23:24:55 +0000
+date:       2019-04-04 19:24:56 -0400
 permalink:  scope_in_javascript
 ---
 
@@ -10,12 +10,12 @@ Originally, I started writing a blog post about variable hoisting in Javascript,
 
 Before ES6, there were only two types of scope in Javascript:
 
-Local/Function Scope
-Global Scope
+* Local/Function Scope
+* Global Scope
 
 ES6 introduced a new type of scope to Javascript, which is 
 
-Block Scope
+* Block Scope
 
 Before we dive in to the differences of each type of scope, let’s discuss what scope is at it’s most basic level. Scope essentially determines when and where variables can and cannot be accessed. In other terms, “scope determines the accessibility” of variables.
 
